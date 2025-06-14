@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ThoughtsHub.Application\ThoughtsHub.Application.csproj" />
+    <ProjectReference Include="..\ThoughtsHub.Infrastructure\ThoughtsHub.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
